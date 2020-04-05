@@ -3,6 +3,12 @@ body a
 {
     text-decoration: none;
 }
+html,
+body a:visited
+{
+    color: black;
+}
+
 #menu-h3
 {
     font-family: Arial, Helvetica, sans-serif;

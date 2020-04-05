@@ -8,6 +8,11 @@ body a:visited
 {
     color: black;
 }
+html,
+header
+{
+    padding-top: 2%;
+}
 
 #menu-h3
 {

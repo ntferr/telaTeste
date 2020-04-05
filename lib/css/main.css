@@ -1,3 +1,8 @@
+html,
+body a
+{
+    text-decoration: none;
+}
 #menu-h3
 {
     font-family: Arial, Helvetica, sans-serif;

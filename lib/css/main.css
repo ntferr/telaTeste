@@ -11,7 +11,7 @@ body a:visited
 html,
 header
 {
-    padding-top: 2em;
+    padding-top: 2%;
 }
 
 #menu-h3
@@ -63,9 +63,9 @@ header
     background-repeat: no-repeat;
     background-size: 1.6em;
     background-position: left;
-    background-position-x: 0.3em;
+    background-position-x: 0.6em;
     padding-top: 0.5em;
-    padding-left: 2.2em;
+    padding-left: 2.4em;
     padding-bottom: 0.5em;
     font-family: Arial, Helvetica, sans-serif;
     background-color: #F0F0F0;
@@ -106,7 +106,7 @@ footer
     border-style: solid;
     width: 100%;
     height: 12em;
-    position: absolute;
+    position: absolute initial;
     bottom: 0;
     left: 0;
 }
